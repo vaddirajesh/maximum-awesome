@@ -1,4 +1,4 @@
-" Plugins here are part of the CORE Maximum Awesome setup
+" Plugins here are part of the CORE Maximum Awesome setupG
 " Do NOT add bundles to this list, as they might get removed when you upgrade
 " Maximum Awesome.
 " Please create ~/.vimrc.bundles.local and add any extra bundles you want there
@@ -41,3 +41,13 @@ Plugin 'vim-ruby/vim-ruby'
 Plugin 'vim-scripts/Align'
 Plugin 'vim-scripts/greplace.vim'
 Plugin 'vim-scripts/matchit.zip'
+Plugin 'Valloric/YouCompleteMe'
+Plugin 'SirVer/ultisnips'
+Plugin 'mattn/emmet-vim'
+Plugin 'fatih/vim-go'
+Plugin 'javacomplete'
+Plugin 'derekwyatt/vim-scala'
+Plugin 'chase/vim-ansible-yaml'
+Plugin 'elzr/vim-json'
+Plugin 'rip-rip/clang_complete'
+Plugin 'Lokaltog/vim-powerline'
